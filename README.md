@@ -6,7 +6,6 @@ I am a systems student and self-taught who is passionate about technology,In thi
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 
 
