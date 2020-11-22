@@ -1,7 +1,7 @@
 ### Hi there! My name is Alfredo Rodriguez 👋
 
 I am a systems student and self-taught who is passionate about technology,In this repository you can find some projects about web development and systems linux
----
+
 <br/>  
 
 
@@ -76,6 +76,6 @@ I am a systems student and self-taught who is passionate about technology,In thi
 </td></tr></table>  
 
 <br/>  
----
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alfredrodriguez2042&show_icons=true&theme=tokyonight)
