@@ -75,6 +75,17 @@ I am a systems student and self-taught who is passionate about technology,In thi
 </td></tr></table>  
 
 <br/>  
+## Github Stats  
+<table><tr><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api?username=alfredrodriguez2042&show_icons=true&theme=tokyonight" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredrodriguez2042&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alfredrodriguez2042&show_icons=true&theme=tokyonight)
