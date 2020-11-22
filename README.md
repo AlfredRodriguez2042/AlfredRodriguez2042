@@ -79,7 +79,7 @@ I am a systems student and self-taught who is passionate about technology,In thi
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alfredrodriguez2042&show_icons=true&theme=tokyonight" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=alfredrodriguez2042&show_icons=true&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
