@@ -75,6 +75,7 @@ I am a systems student and self-taught who is passionate about technology,In thi
 </td></tr></table>  
 
 <br/>  
+
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -88,4 +89,3 @@ I am a systems student and self-taught who is passionate about technology,In thi
 
 <br/>  
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alfredrodriguez2042&show_icons=true&theme=tokyonight)
