@@ -71,7 +71,9 @@ Software developer with over 5 years of experience in designing, developing, and
 </div>
 
 </td></tr></table> 
+
 <br/> 
+
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
